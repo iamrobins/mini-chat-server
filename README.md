@@ -1,4 +1,4 @@
 # mini-chat-server
 
 ### Telnet Client
-<img src="telnet_client.png">
+<img src="telnet-client.png">
